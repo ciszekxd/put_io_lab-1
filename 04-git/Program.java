@@ -6,3 +6,4 @@ public class MyClass {
     System.out.println(myObj.x);
   }
 }
+//Random comment
