@@ -1,3 +1,4 @@
+//Forgotten comment
 public class MyClass {
   int x = 5;
 
@@ -7,3 +8,4 @@ public class MyClass {
   }
 }
 //Random comment
+//Change 4
