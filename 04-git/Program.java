@@ -9,3 +9,5 @@ public class MyClass {
 }
 //Random comment
 //Change 4
+
+//Random comment to check git stash option
