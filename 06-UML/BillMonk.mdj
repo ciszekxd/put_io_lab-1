@@ -158,7 +158,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFftHf2PK1QDFY="
 							},
-							"name": "konsument",
+							"name": "placacy",
 							"type": {
 								"$ref": "AAAAAAFftHf2PK1PzFU="
 							}
@@ -774,7 +774,7 @@
 											"top": 477,
 											"width": 116.7080078125,
 											"height": 13,
-											"text": "+konsument: Osoba",
+											"text": "+placacy: Osoba",
 											"horizontalAlignment": 0
 										}
 									],
