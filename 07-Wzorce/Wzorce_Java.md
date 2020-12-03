@@ -1,12 +1,12 @@
-1. Composite
+1. Decorator
 2. Component
-3. Composite
+3. Decorator
 4. InputStream
 5. InputStream, Checksum
 6. Checksum, Checksum
-7. 
-8.
-9. Composite
+7. Filter
+8. ConcreteComponent1
+9. ConcreteDecorator1
 10.
 11.
 12.
